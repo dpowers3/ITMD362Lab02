@@ -3,13 +3,14 @@ input {
 	padding : 5px;
 	width: 100%;
 	box-sizing: border-box;
-	max-width:360px;
-	margin:0 5px 10px 5px;
+	max-width:340px;
+	margin:0 10px 10px 5px;
+	
 	
 }
 #submit{
-	margin:10px;
-	max-width: 360px;
+	margin:margin:0 10px 10px 5px;
+	max-width: 340px;
 }
 body{
 	background-color: lightgrey;
