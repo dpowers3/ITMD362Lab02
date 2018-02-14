@@ -6,13 +6,18 @@ input {
 	max-width:340px;
 	margin: 0 10px 10px 5px;
 	
-	
 }
 #submit{
+	float:left;
 	margin: 0 10px 10px 5px;
-	max-width: 340px;
+	max-width: 100px;
+}
+#reset{
+	float:left;
+	margin: 0 10px 10px 5px;
+	max-width: 100px;
 }
 body{
 	background-color: lightgrey;
-	
+	font-family: helvetica; 
 }
